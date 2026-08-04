@@ -24,7 +24,7 @@ section {
   max-width: 800px; 
   background: white; 
   border-radius: 8px; 
-  box-shadow: 0 o 1opx rgba(©, 0, 0, 0.1) ;
+  box-shadow: 0 0 1opx rgba(0, 0, 0, 0.1) ;
 }
 h2 {
   color: #4CAF50;
